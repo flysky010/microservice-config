@@ -1,4 +1,4 @@
-spring:
+锘縮pring:
     profiles:
         active:
             - dev
@@ -12,4 +12,4 @@ spring:
     profiles: test
     application:
         name: microservice-config-sjl-test
-#请保存为UTF-8格式
+#璇蜂繚瀛樹负UTF-8鏍煎紡
