@@ -1,15 +1,15 @@
 ﻿spring:
-    profiles:
-        active:
-            - dev
+  profiles:
+    active:
+    - dev
 ---
 spring:
-    profiles: dev
-    application:
-        name: microservice-config-sjl-dev
+  profiles: dev
+  application:
+    name: microservice-config-sjl-dev
 ---
 spring:
-    profiles: test
-    application:
-        name: microservice-config-sjl-test
+  profiles: test
+  application:
+    name: microservice-config-sjl-test
 #请保存为UTF-8格式
